@@ -1,4 +1,4 @@
-<h1 align="left">Hello, Recruiters and GitHub Visitors! 👋</h1>
+<h1 align="left">Hello, Recruiters and Visitors! 👋</h1>
 
 ###
 
@@ -18,9 +18,11 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">💻 I Code With</h2>
 
 ###
+
+<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -44,7 +46,7 @@
 
 ###
 
-<h2 align="left">Contact with me</h2>
+<h2 align="left">📬 Contact With Me</h2>
 
 ###
 
