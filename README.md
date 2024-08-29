@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">👋 Hello! I’m  Trường, an enthusiastic software engineering student with a strong passion for technology and problem-solving. <br>🎯 I’m currently seeking opportunities to apply and expand my skills in software development, particularly in backend and full-stack development.</p>
+<p align="left">👋 I’m  Trường, an enthusiastic software engineering student with a strong passion for technology and problem-solving. <br>🎯 I’m currently seeking opportunities to apply and expand my skills in software development, particularly in backend and full-stack development.</p>
 
 ###
 
